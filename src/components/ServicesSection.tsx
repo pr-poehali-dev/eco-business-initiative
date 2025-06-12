@@ -21,7 +21,7 @@ const ServicesSection = () => {
       ],
     },
     {
-      icon: "Recycle",
+      icon: "RotateCcw",
       title: "Утилизация отходов",
       description:
         "Системы раздельного сбора, переработка материалов, программы Zero Waste",
@@ -32,7 +32,7 @@ const ServicesSection = () => {
       ],
     },
     {
-      icon: "TreePine",
+      icon: "Trees",
       title: "Эко-материалы",
       description:
         "Подбор экологичных материалов для офиса, сертифицированная мебель, натуральные покрытия",
